@@ -5,6 +5,9 @@
 [submodule "LobsterCatch"]
 	path = LobsterCatch
 	url = https://github.com/pnickchi/lobstercatch
+[submodule "PEIMAN2"]
+	path = PEIMAN2
+	url = https://github.com/pnickchi/peiman2
 [submodule "gofedf"]
 	path = gofedf
 	url = https://github.com/pnickchi/gofedf
